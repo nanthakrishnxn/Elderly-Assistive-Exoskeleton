@@ -12,7 +12,7 @@ A wearable robotic exoskeleton designed to assist elderly individuals with mobil
 ### Still need more development
 
 ## Analysis & Simulation
-(Next Step
+(Next Step)
 
 ## How to View
 * Open the `Exports/` folder for **.STEP** files.
