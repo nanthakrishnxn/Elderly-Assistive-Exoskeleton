@@ -8,11 +8,7 @@ A wearable robotic exoskeleton designed to assist elderly individuals with mobil
 ## Design Details
 * **Software used:** Autodesk Fusion 360
 * **Key Features:** Ergonomic joints, lightweight alloy frame, and gait-mimicking actuation points.
-
-### Still need more development
-
-## Analysis & Simulation
-(Next Step)
+* ###Still need more development
 
 ## How to View
 * Open the `Exports/` folder for **.STEP** files.
